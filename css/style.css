@@ -1,8 +1,13 @@
 h1 {
-  color: red;
+  color: blue;
 }
 body{
 
-    background-color: blue;
+    background-color: white;
+    align-content: flex-start;
+    font-family: sans-serif;
 
+}
+. important {
+  color: green;
 }
