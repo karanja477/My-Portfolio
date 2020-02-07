@@ -1,13 +1,17 @@
 h1 {
   color: blue;
+  text-align: left;
 }
 body{
 
-    background-color: white;
+    background-color: yellow;
     align-content: flex-start;
     font-family: sans-serif;
 
 }
 . important {
   color: green;
+}
+img {
+   float: right;
 }
