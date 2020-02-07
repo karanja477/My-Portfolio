@@ -15,3 +15,8 @@ body{
 img {
    float: right;
 }
+.sidebar {
+  width: auto;
+  float: right;
+
+}
