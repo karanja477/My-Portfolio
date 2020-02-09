@@ -8,6 +8,9 @@
 ## The project does not relate to an application but relates to a simple project. No procedural steps are required to run it. However, copy the link on in subsequent step here to see its workability.
 # Link to live on Github Pages
 
+https://github.com/karanja477/My-Portfolio
+https://github.com/karanja477/My-Portfolio/blob/gh-pages/index.html
+
 
 # Copy Right and License Information
 Copyright (c) 2020 Evans Karanja
