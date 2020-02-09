@@ -5,7 +5,7 @@ h1 {
 }
 body{
 
-    background-color: yellow;
+    background-color: green;
     align-content: flex-start;
     font-family: sans-serif;
 
@@ -24,4 +24,16 @@ img {
 h2 {
   color: blue;
   text-align: left;
+}
+.test-box {
+  border-left: 2px solid red;
+  border-right: 4px solid blue;
+  border-top: 6px solid orange;
+  border-bottom: 8px solid black
+}
+.test-box {
+  border: 2px solid red;
+  padding:6px
+  margin: 20px
+  background-color: yellow
 }
